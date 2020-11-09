@@ -17,11 +17,10 @@ public class Button extends JButton{
 
     public Button() {
         this.setPreferredSize(new Dimension(200,200));
-        this.setOpaque(true);
+        //this.setOpaque(true);
         this.setBackground(Color.black);
-//        this.setBorderPainted(false);
         this.setFont(new Font("sans_serif",Font.BOLD,60));
-        this.setForeground(Color.magenta);
+        this.setForeground(Color.white);
         
         
         claimed = false;
