@@ -13,7 +13,7 @@ import javax.swing.JPanel;
 	 *
 	 * @author k.na
 	 */
-	
+	// does fetching work?
 	public class Tttgui extends JFrame { 
 	    // The extends keywords means that TTTGUI inherits
 	    // from JFrame, so a TTTGUI object "is a" JFrame
